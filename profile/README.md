@@ -70,5 +70,7 @@ We believe technology should **empower communities** instead of extracting from 
 - Lead: https://github.com/onnwee
 - Contact: info@subcult.tv
 
+
+
 > “Art is not a mirror to reflect reality, but a hammer to shape it.”  
-> — :contentReference[oaicite:1]{index=1}
+> — :contentReference[oaicite:1]
