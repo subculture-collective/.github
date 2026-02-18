@@ -65,7 +65,7 @@ We believe technology should **empower communities** instead of extracting from 
 
 ## 📡 Connect
 
-- Website: subcult.tv
+- Website: https://subcult.tv
 - GitHub: https://github.com/subculture-collective
 - Lead: https://github.com/onnwee
 - Contact: info@subcult.tv
