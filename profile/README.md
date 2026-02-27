@@ -73,4 +73,3 @@ We believe technology should **empower communities** instead of extracting from 
 
 
 > “Art is not a mirror to reflect reality, but a hammer to shape it.”  
-> — :contentReference[oaicite:1]
