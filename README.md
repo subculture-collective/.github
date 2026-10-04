@@ -1,4 +1,4 @@
-[![SUBCULT — Build together. Independent software.](../assets/banner.png)](https://subcult.tv)
+[![SUBCULT — Build together. Independent software.](assets/banner.png)](https://subcult.tv)
 
 # SUBCULT
 
